@@ -1,0 +1,8 @@
+top circle should be 20mm on the outside
+box below it should be 25x25x10
+big nuttrap should accept a M8 nut, should be tight fit, might need a bolt to home it. But it should not be so tight that it deforms or cracks the part
+smaller of the 3 top nut traps are a M3 nut
+the other is a M4
+
+the 2 on the sides are M3 and M4
+
