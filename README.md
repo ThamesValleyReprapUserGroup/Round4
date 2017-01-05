@@ -14,3 +14,4 @@ But we have put our own twist's: on it
  The BOM is here, it might need some tweaks so it can change as we get closer: https://docs.google.com/spreadsheets/d/1C7syP7WIMzRRcczZF0KAYDTLpP77kqbQEB_rWFmMJsc/edit?usp=sharing
  
  CURRENT STATUS: Verifying printed parts
+ ---------------------------------------
