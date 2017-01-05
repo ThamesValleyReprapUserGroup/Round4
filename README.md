@@ -1,6 +1,6 @@
 This is the repro for Round 4
 
-Currently round 4 is a mendel90 frame with a build volume of 200*200*200mm
+Currently round 4 is a mendel90 frame with a build volume of 200x200x200mm
 
 But we have put our own twist's: on it
 
