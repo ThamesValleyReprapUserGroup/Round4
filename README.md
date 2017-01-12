@@ -28,3 +28,9 @@ The reasons for this are:
  ---------------------------------------
 
 We want to test that all the printed parts come out right on a calibrated printer.
+
+This is done by printing and then messure all nut traps etc against this info sheet: 
+
+http://www.slideshare.net/tejasudas/dimensions-of-metric-hex-nuts
+
+First batch of "test" parts has been printed with Form Futura Easyfil ABS at 235C and 110C on the bed. 
