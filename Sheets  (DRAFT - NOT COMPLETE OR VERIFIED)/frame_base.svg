@@ -12,7 +12,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="frame_base_extra_fixing_blocks.svg">
+   sodipodi:docname="frame_base.svg">
   <metadata
      id="metadata164">
     <rdf:RDF>
@@ -46,11 +46,11 @@
      fit-margin-bottom="0"
      inkscape:zoom="0.57213372"
      inkscape:cx="823.45671"
-     inkscape:cy="742.83334"
+     inkscape:cy="742.83333"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g96"
+     inkscape:current-layer="g22"
      showborder="false"
      inkscape:showpageshadow="false" />
   <desc
@@ -311,6 +311,26 @@
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.99762481;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 1543.5421,1016.7731 0.1427,-1.2694 0.4224,-1.2045 0.6791,-1.0802 0.902,-0.9013 1.0806,-0.6788 1.2053,-0.4222 1.2699,-0.1425 1.2699,0.1425 1.2053,0.4222 1.0806,0.6788 0.902,0.9013 0.6792,1.0802 0.4223,1.2045 0.1426,1.2694 -0.1426,1.2692 -0.4223,1.2046 -0.6792,1.0802 -0.902,0.9015 -1.0806,0.6786 -1.2053,0.4223 -1.2699,0.1424 -1.2699,-0.1424 -1.2053,-0.4223 -1.0806,-0.6786 -0.902,-0.9015 -0.6791,-1.0802 -0.4224,-1.2046 -0.1427,-1.2692"
        id="path34-0-5-4-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99921262;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 0.49351032,963.27683 0,-1307.45068"
+       id="path60-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99921262;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1646.3716,963.27619 0,-1307.4507"
+       id="path60-8-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.9992126;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1564.6523,-432.79909 -1475.555178,0"
+       id="path60-8-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.9992126;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1557.811,1051.8659 -1468.716903,0"
+       id="path60-8-9-6"
        inkscape:connector-curvature="0" />
   </g>
   <g
