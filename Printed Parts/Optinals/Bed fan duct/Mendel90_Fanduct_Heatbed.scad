@@ -31,7 +31,7 @@ duct_width = 130;			// try to keep same cross-sectional area (~47sqcm) for optim
 duct_height = 36;
 
 duct_dx = -10;					// x offset - all offsets calculated from front-bottom <chortle!> corner...
-duct_dy = -12;				// y offset
+duct_dy = 5;				// y offset
 duct_dz = 25;				// z offset (depth of fan duct)
 
 
