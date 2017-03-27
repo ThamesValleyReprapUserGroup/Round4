@@ -45,13 +45,13 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.43891313"
-     inkscape:cx="579.84138"
-     inkscape:cy="858.22264"
+     inkscape:zoom="0.49520135"
+     inkscape:cx="1235.2844"
+     inkscape:cy="858.23676"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g18"
+     inkscape:current-layer="layer1"
      inkscape:showpageshadow="false"
      showborder="false" />
   <desc
@@ -4810,5 +4810,15 @@
        r="7.7960868"
        cy="686.87579"
        cx="1434.6323" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.9992126;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1637.6911,71.502214 0,-9.029349"
+       id="path1468-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.99921262;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1743.6111,71.436366 0,-9.02935"
+       id="path1468-2-0"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
