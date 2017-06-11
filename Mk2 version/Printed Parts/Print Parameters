@@ -1,0 +1,21 @@
+Print Parameters
+
+So far the parts have only been tested in ABS.
+
+Nophead prints the gears, pulleys and cable clips with a 0.35mm nozzle using 0.3mm layers. 
+All the other parts are printed with a 0.4mm nozzle and 0.4mm layers.
+
+The recommended infill density settings are as follows: -
+
+Fixing blocks, Wades block, Wades idler block, Wades small gear	95%
+Y bearing mounts, Z couplings	75%
+Z motor brackets	75% hex
+Bar clamps, Y belt anchors, Y idler bracket	50%
+X carriage, Y motor bracket	50% hex
+X idler bracket, X motor bracket	25% hex
+Everything else	25%
+
+Printed with these setting the parts weigh about 400g, a little less than a Prusa.
+
+Most of the holes are polyholes, so they should come out the right size on a well calibrated printer.
+
