@@ -1,6 +1,6 @@
-nut_ht = 4.7;
+nut_ht = 5;
 nut_wd = 9.9;
-dia = 9;
+dia = 8.6;
 thick = 2;
 
 module one( ){
