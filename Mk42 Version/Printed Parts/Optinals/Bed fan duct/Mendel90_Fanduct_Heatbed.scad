@@ -39,10 +39,9 @@ duct_dz = 25;				// z offset (depth of fan duct)
 hole_depth = base_depth + ff;
 
 
-if (1)
+
 	print();
-else
-	preview();
+
 
 CSA_fan_disc = 3.141592653589 * pow(fan_diameter/2, 2);
 CSA_duct_aperture = duct_width * duct_height;
